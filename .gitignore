@@ -16,6 +16,7 @@ fp-info-cache
 *.net
 _autosave*
 /gerber
+/gbr
 *.gbr
 *.gbrjob
 *.zip
